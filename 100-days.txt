@@ -1,4 +1,8 @@
 Day 1:
-01-hello-world.exs 
-02-unit-testing.exs 
+01-hello-world.exs
+02-unit-testing.exs
 03-input-output.exs
+
+Day 2:
+04-pattern-matching.exs
+04-list.exs
