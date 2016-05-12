@@ -6,3 +6,7 @@ Day 1:
 Day 2:
 04-pattern-matching.exs
 04-list.exs
+
+Day 3:
+05-map.exs
+06-record.exs
