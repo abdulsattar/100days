@@ -10,3 +10,9 @@ Day 2:
 Day 3:
 05-map.exs
 06-record.exs
+
+Day 4:
+07-fibonacci.exs
+
+Day 5:
+08-process-ring.exs
